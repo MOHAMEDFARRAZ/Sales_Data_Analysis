@@ -15,16 +15,21 @@ The file can be viewed by downloading the Power BI raw file and you can perform 
 ## Snapshots of the dashboard
 
 Key Performance Indicators
+
 ![Screenshot 2024-02-08 125117](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/2f0160b4-85fa-4b71-baaa-493259d424d5)
 
 Margins split between the range of categories and products
+
 ![Screenshot 2024-02-08 125153](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/61d2eae9-362d-4648-9dcc-f609ee575b2f)
 
 Product_ean of the company
+
 ![Screenshot 2024-02-08 125406](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/586792ab-6389-4868-b63f-d9120e7828a2)
 
 Revenue of the company
+
 ![Screenshot 2024-02-08 125420](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/e6e7a8f7-5344-4625-a856-ff2a1e2c655f)
 
 Different Geographical Locations from where the customers are purchasing the products
+
 ![Screenshot 2024-02-08 125531](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/339da305-f1b5-4464-8290-92801ec0e812)
