@@ -10,7 +10,8 @@ This dashboard helps the company understand their customers in a better way. It 
 
 ## How to view this file
 
-The file can be viewed by downloading the Power BI raw file and you can perform operations on the dashboard  
+The file can be viewed by downloading the Power BI raw file by which you can play around with the dashboard . 
+
 
 ## Snapshots of the dashboard
 
