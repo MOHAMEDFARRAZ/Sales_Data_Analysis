@@ -13,3 +13,4 @@ This dashboard helps the company understand their customers in a better way. It 
 The file can be viewed by downloading the Power BI raw file and you can perform operations on the dashboard  
 
 ## Snapshots of the dashboard
+![Screenshot 2024-02-08 125153](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/61d2eae9-362d-4648-9dcc-f609ee575b2f)
