@@ -1,8 +1,5 @@
 # Sales Dashboard
 
-
-
-
 This dashboard helps the company understand their customers in a better way. It helps the company know if their products are reaching their customers in different geographical locations . Through different products, they get to know their improvement area, & thus they can improve their products by identifying these area.By using this dashboard they have identified the problem, they can further work on factors that are responsible for the growth of the company.
  
  Also ensuring the company will try and expand their product range and number of geographical locations.
@@ -10,8 +7,8 @@ This dashboard helps the company understand their customers in a better way. It 
 
 ## How to view this file
 
-The file can be viewed by downloading the Power BI raw file by which you can play around with the dashboard . 
-
+The file can be viewed by downloading the Power BI raw file by which you can play around with the dashboard .
+This is a descriptive data analysis project which has used sales data for analysis.
 
 ## Snapshots of the dashboard
 
@@ -34,3 +31,7 @@ Revenue of the company
 Different Geographical Locations from where the customers are purchasing the products
 
 ![Screenshot 2024-02-08 125531](https://github.com/MOHAMEDFARRAZ/Sales_data_analysis/assets/119418250/339da305-f1b5-4464-8290-92801ec0e812)
+
+
+## Data Source : Kaggle
+## Analytical Tool : Microsoft Power BI
