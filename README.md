@@ -8,6 +8,7 @@ This dashboard helps the company understand their customers in a better way. It 
 ## How to view this file
 
 The file can be viewed by downloading the Power BI raw file by which you can play around with the dashboard .
+
 This is a descriptive data analysis project which has used sales data for analysis.
 
 ## Snapshots of the dashboard
